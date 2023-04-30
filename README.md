@@ -5,5 +5,5 @@ Implementación de página web para tienda de ropa.
 - Barra de navegación fija al hacer scroll
 - Css externo importado en documento
 
-
+![Imagen Ejercicio HTML](public/shop.png)
 
